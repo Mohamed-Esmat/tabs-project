@@ -1,4 +1,4 @@
-# Tabs Project
+# Tabs Project with Vite
 
 ![Project Logo](https://res.cloudinary.com/tawfeer/image/upload/v1690122961/tabs-project_yqicy6.png)
 
@@ -17,6 +17,7 @@
   - [CurrentItem](#currentitem)
   - [SetCurrentItem](#setcurrentitem)
 - [Usage](#usage)
+- [Live Demo](#live-demo)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -24,7 +25,7 @@
 
 ## Introduction
 
-This repository contains a Tabs project that showcases job information fetched from an external API. Users can navigate through the list of jobs and view details such as company, dates, job title, and duties. The application is built using React and utilizes various hooks and components to display job information dynamically.
+This repository contains a Tabs project that showcases job information fetched from an external API. Users can navigate through the list of jobs and view details such as company, dates, job title, and duties. The application is built using Vite and React and utilizes various hooks and components to display job information dynamically.
 
 ## Getting Started
 
@@ -99,10 +100,18 @@ npm install
 4. **Start the development server:** Run the development server to see the Tabs project in action:
 
 ```sh
-npm run start
+npm run div
 ```
 
 5. **Explore the Tabs project:** Once the development server is running, open your web browser and navigate to `http://localhost:3000`. You will be able to view the job information and navigate through the list of jobs using the provided buttons.
+
+## Live Demo
+
+Experience the Tabs Project in action! Click the link below to access the live demo:
+
+### [Live Demo](https://tabs-demo-project-esmat.netlify.app/)
+
+Feel free to interact with the project, browse through different jobs, and explore the user-friendly interface. The live demo provides a hands-on experience to see the Tabs Project in action.
 
 ## Contributing
 
@@ -113,9 +122,7 @@ We appreciate and welcome contributions to enhance the project! To contribute, f
 2. **Clone your fork:** Clone the forked repository to your local machine using the following command:
 
 ```sh
-git clone
-
- https://github.com/Mohamed-Esmat/tabs-project.git
+git clone https://github.com/Mohamed-Esmat/tabs-project.git
 ```
 
 3. **Navigate to the project directory:** Change your working directory to the project folder:
@@ -138,7 +145,9 @@ npm run div
 
 6. **Make your changes:** Implement your changes or add new features to the project.
 
-7. **Commit your changes:** Commit your changes with clear and descriptive commit messages:
+7. **Commit your changes:** Commit your
+
+ changes with clear and descriptive commit messages:
 
 ```sh
 git commit -m "Add your descriptive commit message here"
